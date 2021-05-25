@@ -1,3 +1,2 @@
 archivo de texto
-modificado en carpeta test
-y branch main y pasado a newbranch
+modificado en carpeta test para branch2
