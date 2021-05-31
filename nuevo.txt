@@ -1,2 +1,3 @@
 archivo de texto
 modificado en main
+para branch2
